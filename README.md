@@ -2,6 +2,8 @@
 
 This project starts in response to Andreas Storm [tweet](https://twitter.com/st8rmi/status/865571653383843840) and is based on Antonio Petre [animation](https://dribbble.com/shots/3514361-Liquidbutton-V2).
 
+![svg liquid button gif](http://builtbyedgar.com/lab/liquid-button/svg-liquid-button.gif)
+
 You can see in action [here](http://builtbyedgar.com/lab/liquid-button/).
 
 
